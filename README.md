@@ -1,2 +1,4 @@
 # Machine-Learning-Project-UNSW-NB15
 To overcome the drawbacks of traditional signature-based detection, the proposed project will focus on developing a machine learning-based Network Intrusion Detection System (NIDS) prototype.
+
+The datasets can be found at https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset&ga=1
